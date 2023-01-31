@@ -16,7 +16,6 @@ sebuah game sederhana dengan nama guess color atau game tebak warna yang dibuat 
 
 * candra dwi cahyo 
 
-  * [email](candradwicahyo18@gmail.com)
   * [instagram](https://instagram.com/candradwicahyo18)
   * [facebook](https://facebook.com/candradwicahyo18)
 
