@@ -4,6 +4,7 @@ window.onload = () => {
   
   const input = document.querySelector('.input');
   const boxes = document.querySelectorAll('.box');
+  const generateBtn = document.querySelector('#generate-btn');
   
   function startGames() {
     const color = hexColorGenerator();
@@ -67,4 +68,8 @@ window.onload = () => {
     }
   }
   
+  generateBtn.addEventListener('click', function() {
+    startGames();
+  });
+
 }
